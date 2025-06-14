@@ -575,10 +575,13 @@ INPUT .\Figures\Diagrama_de_caso_de_uso.png
 INPUT .\Figures\Diagrama_de_caso_de_uso.png
 INPUT .\Figures\Diagrama_de_caso_de_uso.png
 INPUT .\Figures\Diagrama_de_caso_de_uso.png
-INPUT .\Figures\Diagrama_de_Classes.png
-INPUT .\Figures\Diagrama_de_Classes.png
-INPUT .\Figures\Diagrama_de_Classes.png
-INPUT .\Figures\Diagrama_de_Classes.png
+INPUT .\Figures\Diagrama_de_sequência_básico.png
+INPUT .\Figures\Diagrama_de_sequência_básico.png
+INPUT .\Figures\Diagrama_de_sequência_básico.png
+INPUT .\Figures\Diagrama_de_sequência_básico.png
+INPUT .\Figures\Diagrama_de_sequência_básico.png
+INPUT .\Figures\Diagrama_de_sequência_básico.png
+INPUT .\Figures\Diagrama_de_sequência_básico.png
 INPUT .\Chapters\conclusao.tex
 INPUT .\Chapters\conclusao.tex
 OUTPUT Chapters\conclusao.aux

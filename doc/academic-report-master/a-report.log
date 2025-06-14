@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.7)  11 JUN 2025 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.7)  14 JUN 2025 01:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1274,7 +1274,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 File: Figures/Arquitetura_do_projeto.png Graphic file (type png)
 <use Figures/Arquitetura_do_projeto.png>
 Package pdftex.def Info: Figures/Arquitetura_do_projeto.png  used on input line 19.
-(pdftex.def)             Requested size: 364.19667pt x 330.92809pt.
+(pdftex.def)             Requested size: 409.71692pt x 372.29pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1288,7 +1288,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: Figures/modelo_esquematico_dos_processos.png Graphic file (type png)
 <use Figures/modelo_esquematico_dos_processos.png>
 Package pdftex.def Info: Figures/modelo_esquematico_dos_processos.png  used on input line 69.
-(pdftex.def)             Requested size: 364.19667pt x 315.14308pt.
+(pdftex.def)             Requested size: 409.71692pt x 354.53172pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1302,15 +1302,7 @@ Cap\'{\i }tulo 4.
 File: Figures/Diagrama_de_Classes.png Graphic file (type png)
 <use Figures/Diagrama_de_Classes.png>
 Package pdftex.def Info: Figures/Diagrama_de_Classes.png  used on input line 25.
-(pdftex.def)             Requested size: 364.19667pt x 344.947pt.
-
-LaTeX Warning: Reference `fig:diagrama_casos' on page 11 undefined on input line 35.
-
-<Figures/Diagrama_de_caso_de_uso.png, id=235, 614.295pt x 794.97pt>
-File: Figures/Diagrama_de_caso_de_uso.png Graphic file (type png)
-<use Figures/Diagrama_de_caso_de_uso.png>
-Package pdftex.def Info: Figures/Diagrama_de_caso_de_uso.png  used on input line 39.
-(pdftex.def)             Requested size: 364.19667pt x 471.32086pt.
+(pdftex.def)             Requested size: 409.71692pt x 388.06332pt.
 [11
 
 
@@ -1318,18 +1310,33 @@ Package pdftex.def Info: Figures/Diagrama_de_caso_de_uso.png  used on input line
 
  <./Figures/Diagrama_de_Classes.png>]
 
+LaTeX Warning: Reference `fig:diagrama_casos' on page 12 undefined on input line 35.
+
+<Figures/Diagrama_de_caso_de_uso.png, id=240, 614.295pt x 794.97pt>
+File: Figures/Diagrama_de_caso_de_uso.png Graphic file (type png)
+<use Figures/Diagrama_de_caso_de_uso.png>
+Package pdftex.def Info: Figures/Diagrama_de_caso_de_uso.png  used on input line 39.
+(pdftex.def)             Requested size: 409.71692pt x 530.22536pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 LaTeX Warning: Reference `fig:diagrama_sequencia' on page 12 undefined on input line 46.
 
-File: Figures/Diagrama_de_Classes.png Graphic file (type png)
-<use Figures/Diagrama_de_Classes.png>
-Package pdftex.def Info: Figures/Diagrama_de_Classes.png  used on input line 50.
-(pdftex.def)             Requested size: 364.19667pt x 344.947pt.
-[12 <./Figures/Diagrama_de_caso_de_uso.png>]) [13]
+<Figures/Diagrama_de_sequência_básico.png, id=241, 799.48688pt x 617.9085pt>
+File: Figures/Diagrama_de_sequência_básico.png Graphic file (type png)
+<use Figures/Diagrama_de_sequência_básico.png>
+Package pdftex.def Info: Figures/Diagrama_de_sequência_básico.png  used on input line 50.
+(pdftex.def)             Requested size: 409.71692pt x 316.666pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [12] [13 <./Figures/Diagrama_de_caso_de_uso.png>] [14 <./Figures/Diagrama_de_sequência_básico.png>]
 \openout2 = `Chapters/conclusao.aux'.
 
  (Chapters/conclusao.tex
 Cap\'{\i }tulo 5.
-) [14
+) [15
 
 
 
@@ -1350,7 +1357,7 @@ No file Appendices/diagele.tex.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
-) [15
+) [16
 
 
 
@@ -1508,7 +1515,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--31
 
  []
 
-) [16
+) [17
 
 ] (a-report.aux (Others/FolhaRosto.aux) (Others/resumo.aux) (Others/abstract.aux) (Chapters/introducao.aux) (Chapters/fundamentos.aux) (Chapters/metodos.aux) (Chapters/resultados.aux) (Chapters/conclusao.aux) (Appendices/diagmec.aux) (Appendices/diagele.aux) (Others/ultimafolha.aux))
  ***********
@@ -1528,17 +1535,17 @@ Package rerunfilecheck Info: File `a-report.brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33169 strings out of 474486
- 630506 string characters out of 5743756
+ 33177 strings out of 474486
+ 630855 string characters out of 5743756
  1935542 words of memory out of 5000000
- 54544 multiletter control sequences out of 15000+600000
+ 54551 multiletter control sequences out of 15000+600000
  616058 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  105i,12n,107p,1576b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxo10.pfb><C:/Users/Gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb>
-Output written on a-report.pdf (22 pages, 398434 bytes).
+Output written on a-report.pdf (23 pages, 440616 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 33014 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 318 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 33019 words of extra memory for PDF output out of 35830 (max. 10000000)
 

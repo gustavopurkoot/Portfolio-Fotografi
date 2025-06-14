@@ -17,7 +17,7 @@
 \contentsline {chapter}{\numberline {4}Resultados}{11}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Diagrama de classes}{11}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Diagrama de casos de uso}{12}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Diagrama de sequência}{13}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Conclusão}{14}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Considerações finais}{14}{section.5.1}%
-\contentsline {chapter}{Referências}{15}{section.5.1}%
+\contentsline {section}{\numberline {4.3}Diagrama de sequência}{12}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusão}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Considerações finais}{15}{section.5.1}%
+\contentsline {chapter}{Referências}{16}{section.5.1}%
